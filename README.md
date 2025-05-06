@@ -9,7 +9,7 @@ Desenvolvedor(a) apaixonado(a) por tecnologia, com foco em [ex: desenvolvimento 
  
 ## Habilidades
 
-NENHUMA 
+Construção de ChatBot pelo SendPulse
 
 ## Projetos em destaque
 
