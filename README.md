@@ -6,17 +6,19 @@ Bem-vindo ao meu repositório pessoal! Aqui você encontra informações sobre m
 
 Desenvolvedor(a) apaixonado(a) por tecnologia, com foco em [ex: desenvolvimento web, ciência de dados, mobile...]. Sempre buscando aprender e criar soluções que impactem positivamente o mundo.
 
+ 
 ## Habilidades
 
 NENHUMA 
 
 ## Projetos em destaque
 
-NENHUM
+ChatBot
 
 ## Contato
 
 - [Email](diogoyuri499@gmail.com)
+- Numero(+55 9 85 9793-2729)
 
 ---
 
