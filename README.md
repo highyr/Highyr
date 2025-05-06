@@ -1,4 +1,4 @@
-# Olá, eu sou [Diogo]!
+# Olá, eu sou Diogo!
 
 Bem-vindo ao meu repositório pessoal! Aqui você encontra informações sobre mim, minhas habilidades, projetos e como entrar em contato.
 
